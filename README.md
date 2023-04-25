@@ -5,4 +5,9 @@ Ce projet est un Pokedex interactif développé en React JS. Le Pokedex récupè
 
 Le projet comprend plusieurs fonctionnalités, notamment la recherche de Pokemons par nom, la navigation entre les listes de Pokemons et les pages de détails.
 
-Ce projet regroupe des compétences dans la construction de composants, la manipulation de données à partir d'API, l'utilisation des hooks de React et du design CSS (avec Grid) 
+Ce projet regroupe des compétences dans la construction de composants, la manipulation de données à partir d'API (back-end Express), l'utilisation des hooks de React et du design CSS (avec Grid) 
+
+### Démo
+
+https://user-images.githubusercontent.com/39164405/234276356-ce9df8e4-1eb4-4ccc-a586-8255c239584c.mov
+
